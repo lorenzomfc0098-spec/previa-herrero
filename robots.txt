@@ -1,0 +1,5 @@
+# Prévia: não indexar. No site final, trocar por "Allow: /".
+User-agent: *
+Disallow: /
+
+Sitemap: https://constabherrero.com.br/sitemap.xml
